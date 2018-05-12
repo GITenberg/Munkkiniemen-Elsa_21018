@@ -1,0 +1,26 @@
+_repo: Munkkiniemen-Elsa_21018
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sissala, Eero
+    birthdate: 1851
+    deathdate: 1909
+    gutenberg_agent_id: '9597'
+    url: http://www.gutenberg.org/2009/agents/9597
+description: ''
+gutenberg_issued: '2007-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21018'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: Munkkiniemen Elsa
+url: http://www.gutenberg.org/ebooks/21018
