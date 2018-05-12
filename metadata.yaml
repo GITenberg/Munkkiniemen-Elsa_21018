@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9597'
     url: http://www.gutenberg.org/2009/agents/9597
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21018#Munkkiniemen-Elsa
 gutenberg_issued: '2007-04-10'
 gutenberg_type: Text
 identifiers:
